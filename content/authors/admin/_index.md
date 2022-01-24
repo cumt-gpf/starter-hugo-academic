@@ -4,9 +4,9 @@ role: Ph.D student on Formal Verification
 avatar_filename: avatar.jpeg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Program Analysis
+  - Program Verification
+  - Program Testing
 social:
   - icon: envelope
     icon_pack: fas

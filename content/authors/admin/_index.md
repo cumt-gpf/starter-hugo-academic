@@ -1,6 +1,6 @@
 ---
 title: Pengfei Gao
-role: Professor of Artificial Intelligence
+role: Ph.D student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

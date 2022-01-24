@@ -2,8 +2,7 @@
 title: Pengfei Gao
 role: Ph.D student on Formal Verification
 avatar_filename: avatar.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics

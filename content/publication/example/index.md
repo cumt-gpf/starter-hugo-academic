@@ -16,16 +16,13 @@ authors:
   - admin
   - Fu Song
   - Chao Wang 
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: In *Wowchemy Conference*
+publication: In *International Conference on Computer-Aided Verification*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: In *CAV*
 url_source: ""
 url_video: ""
 title: "SCInfer: Refinement-based Verification of Software Countermeasures

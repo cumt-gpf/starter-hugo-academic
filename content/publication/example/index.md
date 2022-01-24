@@ -26,7 +26,8 @@ url_project: ""
 publication_short: In *ICW*
 url_source: ""
 url_video: ""
-title: CAV2018
+title: "SCInfer: Refinement-based Verification of Software Countermeasures
+  against Side-Channel Attacks."
 doi: ""
 featured: false
 tags: []

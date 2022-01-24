@@ -39,6 +39,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Pengfei Gao is a fifth-year Ph.D. student at ShanghaiTech University. His research interests include program analysis, verfication and testing.  
+Pengfei Gao is a fifth-year Ph.D. student at ShanghaiTech University under supervision of [Prof. Fu Song](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/). His research interests include program analysis, verification, and testing.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -1,6 +1,6 @@
 ---
 title: Pengfei Gao
-role: Ph.D student
+role: Ph.D student on Formal Verification
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

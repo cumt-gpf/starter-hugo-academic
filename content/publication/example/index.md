@@ -12,8 +12,10 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
+  - Jun Zhang
   - admin
-  - Robert Ford
+  - Fu Song
+  - Chao Wang 
 author_notes:
   - Equal contribution
   - Equal contribution

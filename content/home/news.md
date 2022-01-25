@@ -5,6 +5,7 @@ headless: true
 # ... Put Your Section Options Here (title etc.) ...
 title: News 
 subtitle:
+url: '#news'
 weight: 20  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.

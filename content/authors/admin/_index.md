@@ -1,6 +1,6 @@
 ---
 title: Pengfei Gao
-role: Ph.D student on Formal Verification
+role: Ph.D. student on Formal Verification
 avatar_filename: avatar.jpeg
 bio: ""
 interests:
@@ -38,6 +38,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Pengfei Gao is a fifth-year Ph.D. student at ShanghaiTech University under supervision of [Prof. Fu Song](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/). His research interests include program analysis, verification, and testing.  
+Pengfei Gao is a fifth-year Ph.D. student at ShanghaiTech University under supervision of [Prof. Fu Song](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/). His research interests are broadly in the area of program analysis, verification, and testing. He is mainly working on the formal verification of programs against side-channel attacks.    
+
+Email:
+$$ ((x \to (y \to xy\@shanghaitech.edu.cn))(gao))(pf)$$
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

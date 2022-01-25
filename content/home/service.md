@@ -4,6 +4,7 @@ headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Service 
+url: "#service"
 subtitle:
 weight: 40  # section position on page
 design:

@@ -2,9 +2,10 @@
 widget: pages
 widget_id: recent-posts
 headless: true
-weight: 30
 title: Recent Publications
 subtitle: ""
+url: "#publications"
+weight: 30
 content:
   filters:
     folders:

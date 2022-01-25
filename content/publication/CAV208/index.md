@@ -22,7 +22,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: *In the proceedings of CAV 2018*
+publication_short: In *the proceedings of CAV 2018*
 url_source: ""
 url_video: ""
 title: "SCInfer: Refinement-based Verification of Software Countermeasures

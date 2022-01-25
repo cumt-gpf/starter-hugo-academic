@@ -23,7 +23,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: *In the proceedings of TACAS 2019*
+publication_short: In *the proceedings of TACAS 2019*
 url_source: ""
 url_video: ""
 title: "Quantitative Verification of Masked Arithmetic Programs against Side-Channel Attacks."

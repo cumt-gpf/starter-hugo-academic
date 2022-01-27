@@ -15,8 +15,8 @@ design:
 - **Dec 2021.** Attend CCF Chinasoft 2021 online and give a talk at Excellent Doctoral Student Forum.
 - **Feb 2021.** Our paper "A Hybrid Approach to Formal Verification of Higher-Order Masked Arithmetic Programs." is accepted by ACM TOSEM 2021.
 - **Nov 2020.** Attend CCF Chinasoft 2020 at Chongqing, China.
-- **Jul 2020.** Attend ISSTA 2020 and serve as a student volunteer at Beijing, China.
 - **Jul 2020.** Our paper "Formal Veriﬁcation of Masking Countermeasures for Arithmetic Programs" is accepted by IEEE TSE 2020.
+- **Jul 2019.** Attend ISSTA 2019 and serve as a student volunteer at Beijing, China.
 - **Apr 2019.** Our paper "Verifying and Quantifying Side-channel Resistance of Masked Software Implementations" is accepted by ACM TOSEM 2019.
 - **Apr 2019.** Attend ETAPS 2019 and serve as a student volunteer at Prague, Czech.
 - **Jan 2019.** Our paper "Quantitative Verification of Masked Arithmetic Programs against Side-Channel Attacks" is accepted by TACAS 2019 / ETAPS 2019.

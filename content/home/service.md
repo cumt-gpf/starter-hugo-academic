@@ -12,5 +12,5 @@ design:
   columns: '2'
 ---
 
-- Student Volunteer: ETAPS'21@Prague, ISSTA'19@Beijing
+- Student Volunteer: ETAPS'19@Prague, ISSTA'19@Beijing
 - Sub-reviewer: CAV'21, IEEE TSE
